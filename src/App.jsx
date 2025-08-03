@@ -27,6 +27,7 @@ const App = () => {
               style={{ backgroundColor: item.currentBackground }}
             >
               <img
+              
                 src={item.icon}
                 alt={item.category}
                 className="summary-icon"
