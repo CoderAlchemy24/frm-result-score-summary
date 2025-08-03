@@ -1,0 +1,22 @@
+@use "mixins" as m;
+
+@font-face {
+  font-family: "Hanken Grotesk ExtraBold";
+  src: url("../../assets/fonts/static/HankenGrotesk-ExtraBold.ttf")
+    format("truetype");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk Bold";
+  src: url("../../assets/fonts/static/HankenGrotesk-Bold.ttf")
+    format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Hanken Grotesk Medium";
+  src: url("../../assets/fonts/static/HankenGrotesk-Medium.ttf")
+    format("truetype");
+  font-weight: 500;
+}
