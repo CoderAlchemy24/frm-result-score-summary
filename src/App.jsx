@@ -1,6 +1,6 @@
 import "./App.scss";
 
-import data from "/src/data.json";
+import data from "../data.json";
 
 const App = () => {
   const datas = data;
