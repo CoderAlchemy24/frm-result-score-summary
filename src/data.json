@@ -2,14 +2,14 @@
   {
     "category": "Reaction",
     "score": 80,
-    "icon": "./assets/images/icon-memory.svg",
+    "icon": "./src/assets/images/icon-memory.svg",
     "currentColor": "#FF5555",
     "currentBackground": "#FFF6F6"
   },
   {
     "category": "Memory",
     "score": 92,
-    "icon": "../assets/images/icon-memory.svg",
+    "icon": "./src//assets/images/icon-memory.svg",
     "currentColor": "#FFB21E",
     "currentBackground": "#FFFBF4"
   },
