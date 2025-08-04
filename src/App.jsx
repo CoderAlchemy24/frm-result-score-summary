@@ -42,7 +42,7 @@ const App = () => {
             </li>
           ))}
         </ul>
-        <button className="continue-button" type="button">
+        <button className="continue-button" type="button" aria-label="Continue to next step">
           Continue
         </button>
       </section>

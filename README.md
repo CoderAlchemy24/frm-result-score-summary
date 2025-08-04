@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/CoderAlchemy24/frm-result-score-summary.git](https://your-solution-url.com)
-- Live Site URL: [https://fancy-otter-60349b.netlify.app/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-result-score-summary.git](https://github.com/CoderAlchemy24/frm-result-score-summary.git)
+- Live Site URL: [https://lighthearted-baklava-bdef10.netlify.app/]([https://lighthearted-baklava-bdef10.netlify.app/)
 
 
 ### Built with
