@@ -1,6 +1,6 @@
 import "./App.scss";
 
-import data from "../data.json";
+import data from "./data.json";
 
 const App = () => {
   const datas = data;
@@ -26,12 +26,12 @@ const App = () => {
               key={index}
               style={{ backgroundColor: item.currentBackground }}
             >
-              <img
+              <img 
               
-                src={item.icon}
+              src = {item.icon}
                 alt={item.category}
                 className="summary-icon"
-              />
+            />
               <span
                 className="summary-title"
                 style={{ color: item.currentColor }}
