@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/CoderAlchemy24/frm-result-score-summary.git](https://github.com/CoderAlchemy24/frm-result-score-summary.git)
-- Live Site URL: [https://lighthearted-baklava-bdef10.netlify.app/]([https://lighthearted-baklava-bdef10.netlify.app/)
+- Live Site URL: [https://lighthearted-baklava-bdef10.netlify.app/](https://lighthearted-baklava-bdef10.netlify.app/)
 
 
 ### Built with
